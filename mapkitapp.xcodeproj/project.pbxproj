@@ -11,6 +11,7 @@
 		8EF2B7742D9DB09700A6BFEE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF2B7732D9DB09700A6BFEE /* ContentView.swift */; };
 		8EF2B7762D9DB09700A6BFEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EF2B7752D9DB09700A6BFEE /* Assets.xcassets */; };
 		8EF2B7792D9DB09700A6BFEE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EF2B7782D9DB09700A6BFEE /* Preview Assets.xcassets */; };
+		8EF2B7802D9DB0CD00A6BFEE /* LocationsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF2B77F2D9DB0CD00A6BFEE /* LocationsModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8EF2B7732D9DB09700A6BFEE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8EF2B7752D9DB09700A6BFEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EF2B7782D9DB09700A6BFEE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8EF2B77F2D9DB0CD00A6BFEE /* LocationsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				8EF2B7712D9DB09700A6BFEE /* mapkitappApp.swift */,
+				8EF2B77F2D9DB0CD00A6BFEE /* LocationsModel.swift */,
 				8EF2B7732D9DB09700A6BFEE /* ContentView.swift */,
 				8EF2B7752D9DB09700A6BFEE /* Assets.xcassets */,
 				8EF2B7772D9DB09700A6BFEE /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				8EF2B7742D9DB09700A6BFEE /* ContentView.swift in Sources */,
 				8EF2B7722D9DB09700A6BFEE /* mapkitappApp.swift in Sources */,
+				8EF2B7802D9DB0CD00A6BFEE /* LocationsModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
